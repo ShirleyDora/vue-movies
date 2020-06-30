@@ -92,53 +92,5 @@
 </script>
 
 <style lang="scss" scoped>
-.movie{
-    display:flex;
-    padding:0.2rem;
-    border-bottom: 0.02rem solid #ccc;
-    &-img{
-        flex-grow:1;
-        width:0;
-        img{
-            width:100%;
-        }
-    }
-    &-info{
-        flex-grow:3;
-        width:0;
-        margin-left:0.2rem;
-        &-title{
-            color:#333;
-            font-weight:700;
-            font-size: 0.34rem;
-        }
-        &-average{
-            font-weight:700;
-            color:#faaf00;
-        }
-        &-star{
-            color:#666;
-            font-size:0.26rem;
-        }
-    }
-    // a{
-    //     display:block;
-    //     width:100%;
-    //     height:100%;
-    // }
-}
-.loading{
-    text-align:center;
-    position:fixed;
-    // bottom:1rem;
-    top:50%;
-    transform:translateY(-50%);
-    width:100%;
-    img{
-        width:1rem;
-    }
-}
-.end{
-    text-align:center;
-}
+    @import '@/assets/scss/movie.scss'
 </style>
