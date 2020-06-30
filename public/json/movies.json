@@ -1,0 +1,350 @@
+{
+    "Status": 200,
+    "Msg": "success",
+    "Data": [
+        {
+            "title": "星际穿越",
+            "id":"0",
+            "images": {
+                "large": "/img/0.jpg",
+                "medium": "/img/0.jpg",
+                "small": "/img/0.jpg"
+            },
+            "rating": {
+                "average": "9.3",
+                "max": "10",
+                "min": "0",
+                "stars": "1112637"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "马修·麦康纳",
+                    "id": "000001"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "安妮·海瑟薇",
+                    "id": "000002"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "杰西卡·查斯坦",
+                    "id": "000003"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "卡西·阿弗莱克",
+                    "id": "000004"
+                }
+            ]
+        },
+        {
+            "title": "哪吒之魔童降世",
+            "id":"1",
+            "images": {
+                "large": "/img/1.jpg",
+                "medium": "/img/1.jpg",
+                "small": "/img/1.jpg"
+            },
+            "rating": {
+                "average": "8.5",
+                "max": "10",
+                "min": "0",
+                "stars": "1441321"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "饺子",
+                    "id": "000005"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "易巧",
+                    "id": "000006"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "魏芸芸",
+                    "id": "000007"
+                }
+            ]
+        },
+        {
+            "title": "千与千寻",
+            "id":"2",
+            "images": {
+                "large": "/img/2.jpg",
+                "medium": "/img/2.jpg",
+                "small": "/img/2.jpg"
+            },
+            "rating": {
+                "average": "9.4",
+                "max": "10",
+                "min": "0",
+                "stars": "1615163"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "宫崎骏",
+                    "id": "000008"
+                }
+            ]
+        },
+        {
+            "title": "海上钢琴师",
+            "id":"3",
+            "images": {
+                "large": "/img/3.jpg",
+                "medium": "/img/3.jpg",
+                "small": "/img/3.jpg"
+            },
+            "rating": {
+                "average": "9.3",
+                "max": "10",
+                "min": "0",
+                "stars": "1240040"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "亚利桑德罗·巴里克",
+                    "id": "000009"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "朱塞佩·托纳多雷",
+                    "id": "000010"
+                }
+            ]
+        },
+        {
+            "title": "怦然心动",
+            "id":"4",
+            "images": {
+                "large": "/img/4.jpg",
+                "medium": "/img/4.jpg",
+                "small": "/img/4.jpg"
+            },
+            "rating": {
+                "average": "9.1",
+                "max": "10",
+                "min": "0",
+                "stars": "1285258"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": " 罗伯·莱纳 ",
+                    "id": "000011"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "安德鲁·沙因曼",
+                    "id": "000012"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "文德琳·范·德拉安南",
+                    "id": "000013"
+                }
+            ]
+        },
+        {
+            "title": "盗梦空间",
+            "id":"5",
+            "images": {
+                "large": "/img/5.jpg",
+                "medium": "/img/5.jpg",
+                "small": "/img/5.jpg"
+            },
+            "rating": {
+                "average": "9.3",
+                "max": "10",
+                "min": "0",
+                "stars": "1487335"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": " 莱昂纳多·迪卡普里奥",
+                    "id": "000014"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "约瑟夫·高登-莱维特",
+                    "id": "000015"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "艾伦·佩吉",
+                    "id": "000016"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": " 汤姆·哈迪",
+                    "id": "000017"
+                }
+            ]
+        },
+        {
+            "title": "楚门的世界",
+            "id":"6",
+            "jianjie": "楚门（金•凯瑞 Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。 ",
+            "images": {
+                "large": "/img/6.jpg",
+                "medium": "/img/6.jpg",
+                "small": "/img/6.jpg"
+            },
+            "rating": {
+                "average": "9.3",
+                "max": "10",
+                "min": "0",
+                "stars": "1110724"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "金·凯瑞",
+                    "id": "000018"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "劳拉·琳妮",
+                    "id": "000019"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "艾德·哈里斯",
+                    "id": "000020"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "诺亚·艾默里奇",
+                    "id": "000021"
+                }
+            ]
+        },
+        {
+            "title": "忠犬八公的故事",
+            "id":"7",
+            "images": {
+                "large": "/img/7.jpg",
+                "medium": "/img/7.jpg",
+                "small": "/img/7.jpg"
+            },
+            "rating": {
+                "average": "9.4",
+                "max": "10",
+                "min": "0",
+                "stars": "1034174"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "拉斯·霍尔斯道姆",
+                    "id": "000022"
+                }
+            ]
+        },
+        {
+            "title": "头号玩家",
+            "id":"8",
+            "images": {
+                "large": "/img/8.jpg",
+                "medium": "/img/8.jpg",
+                "small": "/img/8.jpg"
+            },
+            "rating": {
+                "average": "8.7",
+                "max": "10",
+                "min": "0",
+                "stars": "1615163"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "泰伊·谢里丹",
+                    "id": "000023"
+                },
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "奥利维亚·库克 ",
+                    "id": "000024"
+                }
+            ]
+        },
+        {
+            "title": "龙猫",
+            "id":"9",
+            "images": {
+                "large": "/img/9.jpg",
+                "medium": "/img/9.jpg",
+                "small": "/img/9.jpg"
+            },
+            "rating": {
+                "average": "9.2",
+                "max": "10",
+                "min": "0",
+                "stars": "922306"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": "宫崎骏",
+                    "id": "000025"
+                }
+            ]
+        },
+        {
+            "title": "少年派的奇幻漂流",
+            "id":"10",
+            "images": {
+                "large": "/img/10.jpg",
+                "medium": "/img/10.jpg",
+                "small": "/img/10.jpg"
+            },
+            "rating": {
+                "average": "9.1",
+                "max": "10",
+                "min": "0",
+                "stars": "1035520"
+            },
+            "casts": [
+                {
+                    "alt": "",
+                    "avatars": {},
+                    "name": " 李安 ",
+                    "id": "000026"
+                }
+            ]
+        }
+    ]
+}
